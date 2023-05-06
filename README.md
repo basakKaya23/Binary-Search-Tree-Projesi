@@ -37,8 +37,14 @@ Binary Search Tree Projesi
    /   /  \
   0   4    6
      /
-     2
+    2
    
-   
+
+
+
+
+
+
+
    
    
